@@ -15,6 +15,10 @@ function App() {
               rel="noreferrer"
             >
               open-sourced on Github
+            </a> { " "}
+            and {" "}
+            <a href="https://bespoke-mousse-040c0d.netlify.app/" target="_blank" rel="noopener noreferrer">
+              hosted on Netlify
             </a>
           </footer>
         </div>
